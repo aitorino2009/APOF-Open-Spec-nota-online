@@ -2,8 +2,8 @@
 
 ## 1. Project Scaffolding & Setup
 
-- [ ] 1.1 Initialize the React + Vite + Tailwind CSS project structure and verify `npm run build` succeeds.
-- [ ] 1.2 Install necessary dependencies (`lucide-react`, `qrcode.react`, `canvas-confetti`) and verify successful module resolution.
+- [x] 1.1 Initialize the React + Vite + Tailwind CSS project structure and verify `npm run build` succeeds.
+- [x] 1.2 Install necessary dependencies (`lucide-react`, `qrcode.react`, `canvas-confetti`) and verify successful module resolution.
 
 ## 2. Core State & Data Service Layer
 
