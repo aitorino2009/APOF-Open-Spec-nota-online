@@ -7,8 +7,8 @@
 
 ## 2. Core State & Data Service Layer
 
-- [ ] 2.1 Define TypeScript models in `src/types/index.ts` for `Session`, `Vote`, and `SessionResults`, and verify TypeScript compilation passes.
-- [ ] 2.2 Implement `src/services/sessionService.ts` providing session creation, vote recording, blind voter counts, and results calculations, verifying unit tests or simulation scripts pass.
+- [x] 2.1 Define TypeScript models in `src/types/index.ts` for `Session`, `Vote`, and `SessionResults`, and verify TypeScript compilation passes.
+- [x] 2.2 Implement `src/services/sessionService.ts` providing session creation, vote recording, blind voter counts, and results calculations, verifying unit tests or simulation scripts pass.
 
 ## 3. Host / Presentation View
 
